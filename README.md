@@ -20,7 +20,7 @@ Now it is **memecoins**, every session. Follow the trend, get paid twice: ads on
 
 - **X** - [@Alexvx_nft](https://x.com/Alexvx_nft) - daily content, ads, the room
 - **the tape** - memecoins, every day, not a weekend hobby
-- **desks** - tools I ship in public when the meta needs them. latest: [HILLWIRE](https://github.com/alexvxonchain/hillwire)
+- **desks** - tools I ship in public when the meta needs them. latest: [GHOSTFILL](https://github.com/alexvxonchain/ghostfill) · [HILLWIRE](https://github.com/alexvxonchain/hillwire)
 
 ### Stack I actually touch
 
