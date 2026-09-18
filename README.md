@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="alexyz-banner.png" alt="ALEXYZ" width="100%">
+  <img src="alexyz-banner-v2.png" alt="ALEXYZ" width="100%">
 </p>
 
 <table>
 <tr>
 <td valign="top" width="62%">
 
-**ALEXYZ** - creator, everyday memecoin trader, vibe coder.
+**ALEXYZ** - creator, everyday memecoin trader, vibecoder.
 
 Onchain since **2021**. Not a tourist season. The whole cycle.
 
@@ -14,7 +14,7 @@ Started in **NFTs**. Not as a spectator. Two private alpha rooms, inner-circle c
 
 When that tape cooled, the **airdrop** years paid the desk. Farmed the boring stuff, skipped the points that never print, and caught **Starknet** at size. The drop people still quote. That one bag did more than a year of farming noise.
 
-Now it is **memecoins**, every session. Follow the trend, get paid twice: ads on the timeline, fills on the tape. I write the post, take the trade, vibe-code the desk when the market wants a new pair of eyes. Distribution is the product.
+Now it is **memecoins**, every session. Follow the trend, get paid twice: ads on the timeline, fills on the tape. I write the post, take the trade, vibecode the desk when the market wants a new pair of eyes. Distribution is the product.
 
 ### What I run now
 
